@@ -17,7 +17,6 @@
   - Tombol Animasi SVG
   - Formulir Isian Pertampilan
   - Virtual Keyboard Untuk Layar Sentuh Dilengkapi Fungsi Blokir Karakter Yang Tidak Digunakan
-  - Test Commit VS Code
   
 **Tampilan Back-End Bukutamu**
   - Fototamu
@@ -41,6 +40,7 @@
 - [Codeigniter](https://www.codeigniter.com/) Version 3.1.10
 
 # Changelog
+- V.1.0.5 - Bug Fixed
 - V.1.0.4 - Add Fitur Kotak Warna Kostum Keperluan dan Pegawai Yang Ditemui
 - V.1.0.3 - Bug Fixed (Running Text & Copyright Keep Down Position)
 - V.1.0.2 - Bug Fixed (Error PHP Parse error - unexpected T_STRING Mengguanakan short_open_tag boolean)
