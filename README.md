@@ -17,6 +17,7 @@
   - Tombol Animasi SVG
   - Formulir Isian Pertampilan
   - Virtual Keyboard Untuk Layar Sentuh Dilengkapi Fungsi Blokir Karakter Yang Tidak Digunakan
+  - Test Commit VS Code
   
 **Tampilan Back-End Bukutamu**
   - Fototamu
