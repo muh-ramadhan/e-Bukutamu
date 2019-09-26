@@ -51,7 +51,13 @@ class Dashboard extends CI_Controller {
         // INI MENGHANCURKAN TIDURKU WKWKWKWK
         $this->output->enable_profiler(FALSE);
         $userdata = $this->session->userdata('level');
-        $imageData=$GLOBALS['HTTP_RAW_POST_DATA'];
+        
+        // JIKA UNTUK MODE OFFLINE
+        $imageData = file_get_contents('php://input');
+
+        // JIKA UNTUK MODE ONLINE
+        //$imageData=$GLOBALS['HTTP_RAW_POST_DATA'];
+
         $filteredData=substr($imageData, strpos($imageData, ",")+1);
         $unencodedData=base64_decode($filteredData);
         $filename = uniqid().'.jpg';
