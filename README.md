@@ -2,6 +2,8 @@
 
 - [Demo Front-End](https://youtu.be/ZYzbTSijTrc)
 - Demo Back-End *Belum Dipublikasikan
+- Username : admin
+- Password : 123 (Menggunakan MD5)
 
 # Mode Online dan Offline
 
