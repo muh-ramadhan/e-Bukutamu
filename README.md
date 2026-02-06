@@ -65,5 +65,22 @@ Aplikasi e - Bukutamu Dibangun dan Dikembangkan Oleh **Muh. Ramadhan**
 - [Facebook](http://facebook.com/sumastik)
 - [Twitter](https://twitter.com/MR_MuhRamadhan)
 - [Instagram](https://www.instagram.com/MR_MuhRamadhan/)
+
+## ☕ Support Me
+Jika proyek ini bermanfaat, Anda dapat memberikan dukungan melalui metode berikut.
+
+### 📱 QRIS
+Scan QRIS berikut menggunakan aplikasi pembayaran Anda.
+
+<img src="QRIS.jpeg" alt="QRIS Support" width="250"/>
+
+---
+
+### 💰 USDT
+Scan QR Code USDT berikut menggunakan wallet crypto Anda.
+
+<img src="USDT.jpeg" alt="USDT QR Support" width="250"/>
+
+
 - [Whatsapp](https://api.whatsapp.com/send?phone=6282191272636&text=Halo%20Saya%20Butuh%20Informasi%20Terbaru)
 
